@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Address_Book_API", "Address_Book_API\Address_Book_API.csproj", "{3BC3F9BB-B948-4623-9F13-F6A3D13B35EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Adress_Book_API", "Test_Adress_Book_API\Test_Adress_Book_API.csproj", "{6D030101-4158-4A19-AE9A-F6F55DE78E75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BC3F9BB-B948-4623-9F13-F6A3D13B35EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC3F9BB-B948-4623-9F13-F6A3D13B35EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC3F9BB-B948-4623-9F13-F6A3D13B35EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC3F9BB-B948-4623-9F13-F6A3D13B35EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D030101-4158-4A19-AE9A-F6F55DE78E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D030101-4158-4A19-AE9A-F6F55DE78E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D030101-4158-4A19-AE9A-F6F55DE78E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D030101-4158-4A19-AE9A-F6F55DE78E75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB05F771-7DFA-4F4A-BF3C-D24BF0D7CA49}
+	EndGlobalSection
+EndGlobal
